@@ -1,1 +1,3 @@
-project5
+Actor Profile
+
+![Actor-Profile](https://github.com/ibazuzo/Actor-Profile/screenshot.jpg)
